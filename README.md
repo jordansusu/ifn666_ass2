@@ -1,4 +1,7 @@
-# Getting Started with Create React App
+# Travel Website :earth_asia: :airplane:
+That is a website developed React which can provide users with travel suggestions. It provides two search functions on this website – find attractions and restaurants. The purpose of this website is to help travelers find the information they want more easily by using our interactive website.
+
+## Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
