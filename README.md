@@ -1,4 +1,4 @@
-# Travel Website :earth_asia: :airplane:
+# Travel Advisor Website :earth_asia: :airplane:
 
 That is a website developed by React which can provide users with travel suggestions. It provides two search functions on this website – find attractions and restaurants. The purpose of this website is to help travelers find the information they want more easily by using our interactive website.
 
@@ -10,7 +10,7 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 Use npm i --force or npm i --legacy-peer-deps rather than just use npm i
 Cause there are some version conflict in some libraries. That problem will be fixed in the future release build version.
 
-## Skill Usage
+## Tech Usage
 1. ReactJS
 2. Lottie
 3. Unsplash Image Api
