@@ -19,3 +19,6 @@ Cause there are some version conflict in some libraries. That problem will be fi
 
 ## Demo Video
 https://youtu.be/bWanR6NBSLI
+
+## Report
+[PDF file](https://github.com/jordansusu/ifn666_ass2/blob/main/N11189983_IFN666_ASS2.pdf)
